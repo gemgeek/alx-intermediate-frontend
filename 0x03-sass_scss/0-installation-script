@@ -1,0 +1,4 @@
+1. Moved into the alx-intermediate-frontend repository.
+2. Created a new directory called 0x03-sass_scss.
+3. Checked Node.js version using node -v.
+4. Installed Sass using npm install sass.
